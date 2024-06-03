@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamYasirKhan
+- 👋 Hi, I’m iamYasirKhan
 - 👀 I’m interested in ... Front End Development
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, Git & React.js e.t.c (Programming)
 - 💞️ I’m looking to collaborate on ...Software Projects
