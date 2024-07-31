@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Software Projects
 - 📫 How to reach me ...D.M at iamyasirkhaan@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I hold Bacholers Degree Business Administration-Hons
 
 <!---
 iamYasirKhan/iamYasirKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
