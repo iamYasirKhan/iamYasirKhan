@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Software Projects
 - 📫 How to reach me ...D.M at iamyasirkhaan@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am current doing remote certification in frontend and backend development alos, currently doing workshop in web development.
+- ⚡ Fun fact: ...I am current doing remote certification in frontend and backend development also, currently doing workshop in web development.
 
 <!---
 iamYasirKhan/iamYasirKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
